@@ -8,8 +8,8 @@ require('dotenv').config();
 global.prefix = process.env.PREFIX || "."; // your desired prefix symbol only
 global.owner = process.env.OWNER_NUMBER || "2347036214381" // owner number 
 global.sudo = process.env.SUDO  || " ";
-global.ownername = process.env.OWNER_NAME || "Ednut"; //set bot owner name here 
-global.botname = process.env.BOT_NAME || "αrch md"
+global.ownername = process.env.OWNER_NAME || "Ednut"; //2348111713979
+global.botname = process.env.BOT_NAME || "αrch md" JOSHUA SHOP
 global.author = process.env.AUTHOR  || "Ednut";
 global.packname = process.env.PACK_NAME  || "Arch Md ²⁵";
 global.thumb = process.env.THUMB_IMAGE || 'https://files.catbox.moe/1uhvld.jpg';
